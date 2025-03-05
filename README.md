@@ -1,4 +1,4 @@
-This project aims to predict heart disease using machine learning models. We performed data analysis, visualization, hyperparameter tuning, cross-validation, and model evaluation using multiple metrics.
+### This project aims to predict heart disease using machine learning models. We performed data analysis, visualization, hyperparameter tuning, cross-validation, and model evaluation using multiple metrics.###
 - Key Highlights
 
 ✔ Tested multiple models (KNN, Logistic Regression, Random Forest)
